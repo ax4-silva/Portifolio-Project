@@ -18,6 +18,3 @@ Welcome to my **Portfolio Project**! This is my personal web portfolio designed 
 
 
 This project reflects my  professional online presence that effectively showcases my technical skills and creativity. It not only highlights my proficiency in web development but also serves as a living document of my growth as a developer. I continuously update it with new projects and skills as I evolve in my career.
-
-
-   git clone https://github.com/your-username/your-repo-name.git
